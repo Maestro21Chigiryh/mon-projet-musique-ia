@@ -1,0 +1,10 @@
+# Python
+backend/
+__pycache__/
+
+# React
+frontend/node_modules/
+frontend/dist/
+
+# OS
+.DS_Store
